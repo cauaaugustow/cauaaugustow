@@ -1,53 +1,44 @@
+<h2 align="left">📌Hello, my name is Cauã and I am a computer science student with a focus on Frontend development.</h2>
+
+###
+
 <div align="center">
-  <img height="200" src="https://i.pinimg.com/564x/f8/bf/89/f8bf89dc9f6f5a20d52412b7a7cf8671.jpg"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=cauaaugustow&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cauaaugustow&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<h1 align="center">Social media</h1>
+<img align="right" height="150" src="https://i.pinimg.com/originals/b1/6a/c5/b16ac50ce6954a9f4ee2728e05fe85c4.gif"  />
+
+###
+
+<div align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+</div>
 
 ###
 
 <br clear="both">
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/cauã-augusto-590359304/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/channels/@me" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/caua_augustto_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
-<h1 align="center">Techs</h1>
-
-###
-
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" height="40" alt="c logo"  />
-</div>
-
-###
-
-<h1 align="left">Stats</h1>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=cauaaugustow&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+<img src="https://raw.githubusercontent.com/cauaaugustow/cauaaugustow/output/snake.svg" alt="Snake animation" />
 
 ###
