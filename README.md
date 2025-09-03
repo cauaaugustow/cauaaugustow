@@ -1,4 +1,4 @@
-<h2 align="left">📌Hello, my name is Cauã and I am a computer science student with a focus on Frontend development.</h2>
+<h2 align="left">📌Hello, my name is Cauã and I am a computer science student with a focus on Fullstack development.</h2>
 
 ###
 
@@ -25,7 +25,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="30" alt="flutter logo"  />
 </div>
 
 ###
