@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/cauaugusto">
+  <a href="https://github.com/cauaugustow">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=600&lines=Desenvolvedor+Full-Stack;Next.js+%7C+React+%7C+TypeScript+%7C+Node.js;PostgreSQL+%7C+MongoDB+%7C+MySQL;Apaixonado+por+c%C3%B3digo+limpo+e+performance" alt="Typing SVG" />
   </a>
 </p>
@@ -67,8 +67,8 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cauaaugustow&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauaaugustow&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="175" alt="Top Languages" />
+  <img src="https://streak-stats.demolab.com?user=cauaaugustow&theme=tokyonight&hide_border=true" height="175" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.deno.dev/api/top-langs/?username=cauaaugustow&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages" />
 </div>
 
 <p align="center">
