@@ -67,8 +67,8 @@
 ### 📊 Estatísticas do GitHub
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cauaaugustow&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauaaugustow&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=cauaaugustow&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" height="175" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cauaaugustow&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" height="175" alt="Top Languages" />
 </div>
 
 <p align="center">
