@@ -66,11 +66,6 @@
 
 ### 📊 Estatísticas do GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.deno.dev/api?username=cauaaugustow&show_icons=true&theme=tokyonight&hide_border=true" height="175" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.deno.dev/api/top-langs/?username=cauaaugustow&layout=compact&theme=tokyonight&hide_border=true" height="175" alt="Top Languages" />
-</div>
-
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=cauaaugustow&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
