@@ -72,7 +72,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SEU_USUARIO_GITHUB&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=cauaaugustow&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
